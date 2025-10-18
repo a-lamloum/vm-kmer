@@ -1,6 +1,5 @@
 """
 Copyright 2020 | Ahmed Lamloum, Asmaa Ali, Mohamed AboelEla, and Usama Bakry
-https://github.com/ubakry/VMK-mer
 
 This file is used for running VMK-mer directly without installing it.
 
